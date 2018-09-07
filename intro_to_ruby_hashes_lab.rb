@@ -5,7 +5,11 @@ end
 def actor
 new_hash
 hash = {
-  
+  "Dwayne The Rock Johnson" => {
+  name: "Jon",
+  email: "jon_snow@thewall.we", 
+  favorite_ice_cream_flavors: ["chocolate", "vanilla"]
+  },
 }
 end
 
