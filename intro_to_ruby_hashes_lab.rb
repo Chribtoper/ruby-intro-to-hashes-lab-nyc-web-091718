@@ -4,8 +4,8 @@ end
 
 def actor
 new_hash
-actor = {
-  :actor => {
+hash = {
+  :name => {
   name: "Jon",
   email: "jon_snow@thewall.we", 
   favorite_ice_cream_flavors: ["chocolate", "vanilla"]
