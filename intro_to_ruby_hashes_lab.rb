@@ -4,7 +4,9 @@ end
 
 def actor
 new_hash
-hash = 
+hash = {
+  
+}
 end
 
 def monopoly
